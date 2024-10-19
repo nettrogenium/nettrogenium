@@ -1,10 +1,9 @@
-what's up, the name should read it out loud - i'm a networks lover
+/*
 
-currently in school, maining for a certain college
+* python & c++ programmer
 
-usually alive between 11 AM to 7 PM (UTC)
+* studying ml
 
-absolutely love networks, enjoy AIs and hacking
+* alive between 11 AM to 7 PM UTC
 
-discord -> nettrogenium
-((contact me if you have something important, i'll be there))
+*/
