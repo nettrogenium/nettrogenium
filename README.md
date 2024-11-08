@@ -1,9 +1,5 @@
-/*
+hey, i'm nett
 
-* python & c++ programmer
+AI researcher & learner
 
-* studying ml
-
-* alive between 11 AM to 7 PM UTC
-
-*/
+online between 11 AM to 7 PM UTC
